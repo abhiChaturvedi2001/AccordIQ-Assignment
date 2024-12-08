@@ -1,6 +1,7 @@
-# Project Name
+# ACCORDIQ - ASSIGNMENT
 
-This project is a **Stepper** component built with React.js. It demonstrates a step-by-step workflow and provides functionality to dynamically manage steps as you progress through them. The project also includes a mock API integration using `json-server`.
+You are tasked with creating a React application with two pages.The goal is to demonstrate your ability to build a functional and visually appealing application using React, Redux for state management, and Tailwind CSS for styling.Use this figma design for reference: Figma Design. Good luck, and we look forward to seeing your creative solutions!
+
 
 ## Getting Started
 
